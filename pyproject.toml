@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "SimpleScriptX"
+version = "0.1.0"
+description = "SimpleScript X programming language"
+authors = ["Andy_4sberg","octopyBot","CoolJames1610","DavidShen2"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+termcolor = "^1.1.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"

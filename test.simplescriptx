@@ -1,0 +1,4 @@
+printx green \t\t\t\t[REMINDER]
+printx blue ******************************************
+printx green Only 10 days left before it will be judged
+printx blue ******************************************\n
