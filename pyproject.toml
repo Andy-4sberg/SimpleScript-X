@@ -2,7 +2,7 @@
 name = "SimpleScriptX"
 version = "0.1.0"
 description = "SimpleScript X programming language"
-authors = ["Andy_4sberg","octopyBot","CoolJames1610","DavidShen2"]
+authors = ["Andy_4sberg","DavidShen2"]
 
 [tool.poetry.dependencies]
 python = "^3.8"

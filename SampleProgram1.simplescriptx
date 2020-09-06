@@ -1,0 +1,13 @@
+print Calculator:
+
+function run
+    prompt a = Enter the first number: 
+    prompt b = Enter the second number: 
+    prompt c = Enter the operation: 
+    if $c == + var x = $a + $b;;;print $x
+    if $c == - var x = $a - $b;;;print $x
+    if $c == * var x = $a * $b;;;print $x
+    if $c == / var x = $a / $b;;;print $x
+end function
+
+loop FOREVER run;;;if $c == END break
