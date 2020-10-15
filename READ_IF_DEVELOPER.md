@@ -47,9 +47,17 @@ run_logic(10,'==',10)
 --------------------------
 #### **Syntax:**
 ```
-text = 'help'
-SimpleScriptX(text, text.split())
+command = 'help'
+SimpleScriptX(command, command.split())
 ```
 #### Returns output of command
+--------------------------
+## run_file()
+--------------------------
+#### **Syntax:**
+``` python 3
+run_file(fileName)
+```
+#### Executes SimpleScript X file
 --------------------------
 ###### **Please read LICENSE**

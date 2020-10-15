@@ -1,0 +1,42 @@
+{
+  "help": [
+      "Shows all available commands",
+      "Syntax:\nhelp ARG_1\nARG_1 is the name of a command and is optional"
+    ],
+  "print": [
+      "Prints text to the screen",
+      "Syntax:\nprint ARGs\nARGs can be any string or variable if a $ is placed before it"
+    ],
+  "printx": [
+      "prints colored text to the screen",
+      "Syntax:\nprintx ARGs\nARGs are the same as print, except color is added if color mentioned in {}"
+    ],
+  "var": [
+      "Creates a variable",
+      "Syntax:\nvar ARG_1 = ARG_2\nARG_1 is the name the value, ARG_2 is stored in"
+    ],
+  "var list": [
+      "Creates a list",
+      "Syntax:\nvar list ARG_1 = ARGs\nARG_1 is the name for ARGs to be stored in"
+    ],
+  "*": [
+      "Creates a comment",
+      "Syntax:\n* ARGs\nARGs do nothing, it's just a note for programmers"
+    ],
+  "prompt": [
+      "Asks for user input",
+      "Syntax:\nprompt ARG_1 = ARGs\nARG_1 stores user input, with ARGs displaying text for the user to respond to"
+    ],
+  "exit": [
+      "Exits SimpleScript X",
+      "Syntax:\nexit\nNo ARGs; Closes this program"
+    ],
+  "clear": [
+      "Clears the screen",
+      "Syntax:\nclear\nNo ARGs; Clears the screen"
+    ],
+  "write x to file": [
+      "Writes x to a file",
+      "Syntax:\nwrite ARG_1 to ARG_2\nWrites ARG_1 to a file with the name of ARG_2"
+    ]
+}

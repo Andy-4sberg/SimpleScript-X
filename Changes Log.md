@@ -20,7 +20,7 @@ Fixed error message when typed blank line
 Added simple math operations
 Added comments
 Added user input (prompt)
---- Changes Made by Andy_4sberg
+##### --- Changes Made by Andy_4sberg
 ---
 Fixed assignment issue with two variables
 Added math operations for variables
@@ -100,12 +100,12 @@ Made program faster and more efficient
 Fixed bugs
 Fixed typo in help (removed "print $")
 Commands no longer have to be lowercase
---- Changes Made by Andy_4sberg
+##### --- Changes Made by Andy_4sberg
 ---
 Fixed bugs
 Improvements to if else
 Added Multi-line comments
---- Changes Made by DavidShen2
+##### --- Changes Made by DavidShen2
 
 **************************************
 
@@ -113,7 +113,7 @@ Added Multi-line comments
 ---
 Improvements to Loops
 Helped fix "help" command
---- Changes made by DavidShen2
+##### --- Changes made by DavidShen2
 ---
 Helped fix "help" command
 Fixed bug
@@ -143,4 +143,17 @@ Added remove
 ---
 Fixes
 Added new features I'm to lazy to mention
+--- Changes made by Andy_4sberg
+
+10/14/20:
+---
+Changed "printx" command
+###### Syntax: printx {COLOR}TEXT{ANOTHER COLOR}
+###### Color applies to everything on that line (unless changed by another color)
+Added "promptx" command (colored user input)
+###### Syntax: promptx NAME = {COLOR}TEXT{COLOR}
+###### Color applies to everything on that line (unless changed by another color)
+Added "color" function
+###### Syntax: color(string)
+###### turns {COLOR} into color
 --- Changes made by Andy_4sberg
