@@ -1,5 +1,5 @@
 # **Developer Note:**
-### Please don't edit directly, use code like this:
+### Don't edit directly, please use code like this:
 ``` python 3
 from main import *
 while executing:
