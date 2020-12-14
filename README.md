@@ -1,6 +1,5 @@
 # Welcome to SimpleScript X!
 #### SimpleScript X is a simple programming language built with Python that demonstrates to power of simplicity! 
-![](https://simplesite-x.simplescriptx.repl.co/logo.png =200x)
 ##### Variables:
 Variables are denoted with "var" before variable name and defined by whatever comes after the equal sign.
 
